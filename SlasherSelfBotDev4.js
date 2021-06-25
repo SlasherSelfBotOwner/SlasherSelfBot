@@ -9,7 +9,7 @@ const superagent = require("superagent")
 const client = new Discord.Client();
 const token = ""
 let prefix = "?";
-let BotVersion = "Slasher Dev V4";
+let BotVersion = "Slasher Dev V5";
 
 
 
